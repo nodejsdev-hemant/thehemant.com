@@ -1,0 +1,6 @@
+@import "./mixins.module.scss";
+
+.header {
+  min-height: 100vh;
+  background-color: rgba($clr_5, 1);
+}
